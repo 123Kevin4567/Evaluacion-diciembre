@@ -34,7 +34,7 @@ const ejecucion = async () => {
                   if (materUsuario.length === 0) {
                       const usuarioSinMaterias = {
                           ...user, 
-                          Materias: "El Alumno no esta matriculado en ningun materia"
+                          Materias: "El Alumno no esta matriculado en ninguna materia"
                       };
                       usuariosSinMaterias.push(usuarioSinMaterias);
                       return usuarioSinMaterias;
