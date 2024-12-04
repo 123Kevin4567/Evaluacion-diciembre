@@ -1,0 +1,1024 @@
+{
+  "ciudades": [
+    {
+      "id": 1,
+      "name": "Bucaramanga"
+    },
+    {
+      "id": 2,
+      "name": "Floridablanca"
+    },
+    {
+      "id": 3,
+      "name": "Girón"
+    },
+    {
+      "id": 4,
+      "name": "Piedecuesta"
+    },
+    {
+      "id": 5,
+      "name": "Lebrija"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "cityId": 1
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "cityId": 1
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "cityId": 3
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "cityId": 4
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "cityId": 4
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org",
+      "cityId": 1
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "cityId": 2
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "cityId": 5
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "cityId": 3
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "cityId": 5
+    }
+  ],
+  "materias": [
+    {
+      "id": 1,
+      "name": "Español"
+    },
+    {
+      "id": 2,
+      "name": "Ingles"
+    },
+    {
+      "id": 3,
+      "name": "Matematicas"
+    },
+    {
+      "id": 4,
+      "name": "Sociales"
+    },
+    {
+      "id": 5,
+      "name": "Quimica"
+    },
+    {
+      "id": 6,
+      "name": "Estadística"
+    },
+    {
+      "id": 7,
+      "name": "Filosofía"
+    },
+    {
+      "id": 8,
+      "name": "Deportes"
+    }
+  ],
+  "materia_usuario": [
+    {
+      "id": 1,
+      "userId": 1,
+      "subjectId": 1
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "subjectId": 2
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "subjectId": 3
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "subjectId": 4
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "subjectId": 5
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "subjectId": 6
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "subjectId": 7
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "subjectId": 8
+    },
+    {
+      "id": 9,
+      "userId": 2,
+      "subjectId": 1
+    },
+    {
+      "id": 10,
+      "userId": 2,
+      "subjectId": 2
+    },
+    {
+      "id": 11,
+      "userId": 2,
+      "subjectId": 3
+    },
+    {
+      "id": 12,
+      "userId": 2,
+      "subjectId": 4
+    },
+    {
+      "id": 13,
+      "userId": 2,
+      "subjectId": 5
+    },
+    {
+      "id": 14,
+      "userId": 2,
+      "subjectId": 6
+    },
+    {
+      "id": 15,
+      "userId": 2,
+      "subjectId": 7
+    },
+    {
+      "id": 16,
+      "userId": 3,
+      "subjectId": 8
+    },
+    {
+      "id": 17,
+      "userId": 4,
+      "subjectId": 1
+    },
+    {
+      "id": 18,
+      "userId": 4,
+      "subjectId": 2
+    },
+    {
+      "id": 19,
+      "userId": 4,
+      "subjectId": 3
+    },
+    {
+      "id": 20,
+      "userId": 4,
+      "subjectId": 4
+    },
+    {
+      "id": 21,
+      "userId": 4,
+      "subjectId": 5
+    },
+    {
+      "id": 22,
+      "userId": 4,
+      "subjectId": 6
+    },
+    {
+      "id": 23,
+      "userId": 4,
+      "subjectId": 8
+    },
+    {
+      "id": 24,
+      "userId": 5,
+      "subjectId": 1
+    },
+    {
+      "id": 25,
+      "userId": 5,
+      "subjectId": 2
+    },
+    {
+      "id": 26,
+      "userId": 5,
+      "subjectId": 4
+    },
+    {
+      "id": 27,
+      "userId": 5,
+      "subjectId": 5
+    },
+    {
+      "id": 28,
+      "userId": 5,
+      "subjectId": 6
+    },
+    {
+      "id": 29,
+      "userId": 5,
+      "subjectId": 7
+    },
+    {
+      "id": 30,
+      "userId": 5,
+      "subjectId": 8
+    },
+    {
+      "id": 31,
+      "userId": 6,
+      "subjectId": 1
+    },
+    {
+      "id": 32,
+      "userId": 6,
+      "subjectId": 2
+    },
+    {
+      "id": 33,
+      "userId": 6,
+      "subjectId": 3
+    },
+    {
+      "id": 34,
+      "userId": 6,
+      "subjectId": 5
+    },
+    {
+      "id": 35,
+      "userId": 6,
+      "subjectId": 7
+    },
+    {
+      "id": 36,
+      "userId": 6,
+      "subjectId": 8
+    },
+    {
+      "id": 36,
+      "userId": 6,
+      "subjectId": 4
+    },
+    {
+      "id": 37,
+      "userId": 7,
+      "subjectId": 3
+    },
+    {
+      "id": 38,
+      "userId": 7,
+      "subjectId": 4
+    },
+    {
+      "id": 39,
+      "userId": 7,
+      "subjectId": 7
+    },
+    {
+      "id": 40,
+      "userId": 7,
+      "subjectId": 8
+    },
+    {
+      "id": 41,
+      "userId": 8,
+      "subjectId": 1
+    },
+    {
+      "id": 42,
+      "userId": 8,
+      "subjectId": 2
+    },
+    {
+      "id": 43,
+      "userId": 8,
+      "subjectId": 3
+    },
+    {
+      "id": 44,
+      "userId": 8,
+      "subjectId": 4
+    }
+  ],
+  "notas": [
+    {
+      "id": 1,
+      "subjectUserId": 1,
+      "note": 3.5
+    },
+    {
+      "id": 2,
+      "subjectUserId": 1,
+      "note": 2.5
+    },
+    {
+      "id": 3,
+      "subjectUserId": 1,
+      "note": 3.5
+    },
+    {
+      "id": 4,
+      "subjectUserId": 2,
+      "note": 3.5
+    },
+    {
+      "id": 5,
+      "subjectUserId": 2,
+      "note": 2.5
+    },
+    {
+      "id": 6,
+      "subjectUserId": 2,
+      "note": 3.5
+    },
+    {
+      "id": 7,
+      "subjectUserId": 3,
+      "note": 1.5
+    },
+    {
+      "id": 8,
+      "subjectUserId": 3,
+      "note": 2.5
+    },
+    {
+      "id": 9,
+      "subjectUserId": 3,
+      "note": 5
+    },
+    {
+      "id": 10,
+      "subjectUserId": 4,
+      "note": 3.5
+    },
+    {
+      "id": 11,
+      "subjectUserId": 4,
+      "note": 4.5
+    },
+    {
+      "id": 12,
+      "subjectUserId": 4,
+      "note": 3.5
+    },
+    {
+      "id": 13,
+      "subjectUserId": 5,
+      "note": 3.5
+    },
+    {
+      "id": 14,
+      "subjectUserId": 5,
+      "note": 2.5
+    },
+    {
+      "id": 15,
+      "subjectUserId": 5,
+      "note": 3.5
+    },
+    {
+      "id": 16,
+      "subjectUserId": 6,
+      "note": 3.5
+    },
+    {
+      "id": 17,
+      "subjectUserId": 6,
+      "note": 1.5
+    },
+    {
+      "id": 18,
+      "subjectUserId": 6,
+      "note": 1.5
+    },
+    {
+      "id": 19,
+      "subjectUserId": 7,
+      "note": 2.5
+    },
+    {
+      "id": 20,
+      "subjectUserId": 7,
+      "note": 2.5
+    },
+    {
+      "id": 21,
+      "subjectUserId": 7,
+      "note": 3.5
+    },
+    {
+      "id": 22,
+      "subjectUserId": 8,
+      "note": 0.5
+    },
+    {
+      "id": 23,
+      "subjectUserId": 8,
+      "note": 2.5
+    },
+    {
+      "id": 24,
+      "subjectUserId": 8,
+      "note": 5
+    },
+    {
+      "id": 25,
+      "subjectUserId": 9,
+      "note": 3.5
+    },
+    {
+      "id": 26,
+      "subjectUserId": 9,
+      "note": 2.5
+    },
+    {
+      "id": 27,
+      "subjectUserId": 9,
+      "note": 3.5
+    },
+    {
+      "id": 29,
+      "subjectUserId": 10,
+      "note": 3.5
+    },
+    {
+      "id": 30,
+      "subjectUserId": 10,
+      "note": 0.5
+    },
+    {
+      "id": 31,
+      "subjectUserId": 10,
+      "note": 3.5
+    },
+    {
+      "id": 32,
+      "subjectUserId": 11,
+      "note": 3.5
+    },
+    {
+      "id": 33,
+      "subjectUserId": 11,
+      "note": 2.5
+    },
+    {
+      "id": 34,
+      "subjectUserId": 11,
+      "note": 3.5
+    },
+    {
+      "id": 35,
+      "subjectUserId": 12,
+      "note": 3.5
+    },
+    {
+      "id": 36,
+      "subjectUserId": 12,
+      "note": 2.5
+    },
+    {
+      "id": 37,
+      "subjectUserId": 12,
+      "note": 3.5
+    },
+    {
+      "id": 38,
+      "subjectUserId": 13,
+      "note": 0.5
+    },
+    {
+      "id": 39,
+      "subjectUserId": 13,
+      "note": 1.5
+    },
+    {
+      "id": 40,
+      "subjectUserId": 13,
+      "note": 3.5
+    },
+    {
+      "id": 41,
+      "subjectUserId": 14,
+      "note": 3.5
+    },
+    {
+      "id": 42,
+      "subjectUserId": 14,
+      "note": 2.5
+    },
+    {
+      "id": 43,
+      "subjectUserId": 14,
+      "note": 3.5
+    },
+    {
+      "id": 44,
+      "subjectUserId": 15,
+      "note": 3.5
+    },
+    {
+      "id": 45,
+      "subjectUserId": 15,
+      "note": 2.5
+    },
+    {
+      "id": 46,
+      "subjectUserId": 15,
+      "note": 3.5
+    },
+    {
+      "id": 47,
+      "subjectUserId": 16,
+      "note": 2.5
+    },
+    {
+      "id": 48,
+      "subjectUserId": 16,
+      "note": 2.5
+    },
+    {
+      "id": 49,
+      "subjectUserId": 16,
+      "note": 2.5
+    },
+    {
+      "id": 50,
+      "subjectUserId": 17,
+      "note": 3.5
+    },
+    {
+      "id": 51,
+      "subjectUserId": 17,
+      "note": 2.5
+    },
+    {
+      "id": 52,
+      "subjectUserId": 17,
+      "note": 3.5
+    },
+    {
+      "id": 53,
+      "subjectUserId": 18,
+      "note": 1.5
+    },
+    {
+      "id": 54,
+      "subjectUserId": 18,
+      "note": 1.5
+    },
+    {
+      "id": 55,
+      "subjectUserId": 18,
+      "note": 1.5
+    },
+    {
+      "id": 56,
+      "subjectUserId": 19,
+      "note": 3.5
+    },
+    {
+      "id": 57,
+      "subjectUserId": 19,
+      "note": 2.5
+    },
+    {
+      "id": 58,
+      "subjectUserId": 19,
+      "note": 3.5
+    },
+    {
+      "id": 59,
+      "subjectUserId": 20,
+      "note": 5
+    },
+    {
+      "id": 60,
+      "subjectUserId": 20,
+      "note": 5
+    },
+    {
+      "id": 61,
+      "subjectUserId": 20,
+      "note": 4.5
+    },
+    {
+      "id": 62,
+      "subjectUserId": 21,
+      "note": 3.5
+    },
+    {
+      "id": 63,
+      "subjectUserId": 21,
+      "note": 3.5
+    },
+    {
+      "id": 64,
+      "subjectUserId": 21,
+      "note": 3.5
+    },
+    {
+      "id": 65,
+      "subjectUserId": 22,
+      "note": 3.5
+    },
+    {
+      "id": 66,
+      "subjectUserId": 22,
+      "note": 5
+    },
+    {
+      "id": 67,
+      "subjectUserId": 22,
+      "note": 3.5
+    },
+    {
+      "id": 68,
+      "subjectUserId": 23,
+      "note": 3.5
+    },
+    {
+      "id": 69,
+      "subjectUserId": 23,
+      "note": 0.5
+    },
+    {
+      "id": 70,
+      "subjectUserId": 23,
+      "note": 3.5
+    },
+    {
+      "id": 71,
+      "subjectUserId": 24,
+      "note": 4.5
+    },
+    {
+      "id": 72,
+      "subjectUserId": 24,
+      "note": 2.5
+    },
+    {
+      "id": 73,
+      "subjectUserId": 24,
+      "note": 4.5
+    },
+    {
+      "id": 74,
+      "subjectUserId": 25,
+      "note": 3.5
+    },
+    {
+      "id": 75,
+      "subjectUserId": 25,
+      "note": 2.5
+    },
+    {
+      "id": 76,
+      "subjectUserId": 25,
+      "note": 3.5
+    },
+    {
+      "id": 77,
+      "subjectUserId": 26,
+      "note": 3.5
+    },
+    {
+      "id": 78,
+      "subjectUserId": 26,
+      "note": 3.5
+    },
+    {
+      "id": 79,
+      "subjectUserId": 26,
+      "note": 3.5
+    },
+    {
+      "id": 80,
+      "subjectUserId": 27,
+      "note": 3.5
+    },
+    {
+      "id": 81,
+      "subjectUserId": 27,
+      "note": 2.5
+    },
+    {
+      "id": 82,
+      "subjectUserId": 27,
+      "note": 3.5
+    },
+    {
+      "id": 83,
+      "subjectUserId": 28,
+      "note": 3.5
+    },
+    {
+      "id": 84,
+      "subjectUserId": 28,
+      "note": 2.5
+    },
+    {
+      "id": 85,
+      "subjectUserId": 28,
+      "note": 3.5
+    },
+    {
+      "id": 86,
+      "subjectUserId": 29,
+      "note": 3.5
+    },
+    {
+      "id": 87,
+      "subjectUserId": 29,
+      "note": 4.5
+    },
+    {
+      "id": 88,
+      "subjectUserId": 29,
+      "note": 3.5
+    },
+    {
+      "id": 89,
+      "subjectUserId": 30,
+      "note": 1.5
+    },
+    {
+      "id": 90,
+      "subjectUserId": 30,
+      "note": 2.5
+    },
+    {
+      "id": 91,
+      "subjectUserId": 30,
+      "note": 3.5
+    },
+    {
+      "id": 92,
+      "subjectUserId": 32,
+      "note": 2.5
+    },
+    {
+      "id": 93,
+      "subjectUserId": 32,
+      "note": 2.5
+    },
+    {
+      "id": 94,
+      "subjectUserId": 32,
+      "note": 2.5
+    },
+    {
+      "id": 95,
+      "subjectUserId": 33,
+      "note": 3.5
+    },
+    {
+      "id": 96,
+      "subjectUserId": 33,
+      "note": 3.5
+    },
+    {
+      "id": 97,
+      "subjectUserId": 33,
+      "note": 3.5
+    },
+    {
+      "id": 98,
+      "subjectUserId": 34,
+      "note": 3.5
+    },
+    {
+      "id": 99,
+      "subjectUserId": 34,
+      "note": 2.5
+    },
+    {
+      "id": 100,
+      "subjectUserId": 34,
+      "note": 4.8
+    },
+    {
+      "id": 101,
+      "subjectUserId": 35,
+      "note": 4.5
+    },
+    {
+      "id": 102,
+      "subjectUserId": 35,
+      "note": 4.5
+    },
+    {
+      "id": 103,
+      "subjectUserId": 35,
+      "note": 4.5
+    },
+    {
+      "id": 104,
+      "subjectUserId": 36,
+      "note": 1.5
+    },
+    {
+      "id": 105,
+      "subjectUserId": 36,
+      "note": 4.5
+    },
+    {
+      "id": 106,
+      "subjectUserId": 36,
+      "note": 3.5
+    },
+    {
+      "id": 107,
+      "subjectUserId": 37,
+      "note": 3.5
+    },
+    {
+      "id": 108,
+      "subjectUserId": 37,
+      "note": 2.5
+    },
+    {
+      "id": 109,
+      "subjectUserId": 37,
+      "note": 3.5
+    },
+    {
+      "id": 110,
+      "subjectUserId": 38,
+      "note": 3.5
+    },
+    {
+      "id": 111,
+      "subjectUserId": 38,
+      "note": 2.5
+    },
+    {
+      "id": 112,
+      "subjectUserId": 38,
+      "note": 3.5
+    },
+    {
+      "id": 113,
+      "subjectUserId": 39,
+      "note": 0.5
+    },
+    {
+      "id": 114,
+      "subjectUserId": 39,
+      "note": 2.5
+    },
+    {
+      "id": 115,
+      "subjectUserId": 39,
+      "note": 1.5
+    },
+    {
+      "id": 116,
+      "subjectUserId": 40,
+      "note": 0.5
+    },
+    {
+      "id": 117,
+      "subjectUserId": 40,
+      "note": 1.5
+    },
+    {
+      "id": 118,
+      "subjectUserId": 40,
+      "note": 4.5
+    },
+    {
+      "id": 119,
+      "subjectUserId": 41,
+      "note": 3.5
+    },
+    {
+      "id": 120,
+      "subjectUserId": 41,
+      "note": 2.5
+    },
+    {
+      "id": 121,
+      "subjectUserId": 41,
+      "note": 3.5
+    },
+    {
+      "id": 122,
+      "subjectUserId": 42,
+      "note": 0.5
+    },
+    {
+      "id": 123,
+      "subjectUserId": 42,
+      "note": 1.5
+    },
+    {
+      "id": 124,
+      "subjectUserId": 42,
+      "note": 3.5
+    },
+    {
+      "id": 125,
+      "subjectUserId": 43,
+      "note": 2.5
+    },
+    {
+      "id": 126,
+      "subjectUserId": 43,
+      "note": 2.5
+    },
+    {
+      "id": 127,
+      "subjectUserId": 43,
+      "note": 2.5
+    },
+    {
+      "id": 128,
+      "subjectUserId": 44,
+      "note": 3.5
+    },
+    {
+      "id": 129,
+      "subjectUserId": 44,
+      "note": 2.5
+    },
+    {
+      "id": 130,
+      "subjectUserId": 44,
+      "note": 3.5
+    }
+  ]
+}
